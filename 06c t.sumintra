@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World\n";
+    cout << "My name is Supakorn\n";
+    cout << "I'm in grade 6/1\n";
+    cout << "number7\n";
+
+    return 0;
+}
