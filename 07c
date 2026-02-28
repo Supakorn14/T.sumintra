@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int x = 9, y = 88;
+    float num1 = 0.5;
+    string school = "KW";
+    char grade = 'D';
+
+    cout << "result = " << x - y << endl;
+    cout << "my school is " << school << endl;
+    cout << "my grade is " << grade;
+
+    return 0;
+}
